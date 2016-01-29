@@ -13,4 +13,4 @@ $ learn  # runs only in the terminal
 $ learn -b # runs also in the browser
 ```
 
-<a href='https://learn.co/lessons/js-procedural-dice' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-procedural-dice' title='Dice'>Dice</a> on Learn.co and start learning to code for free.</p>
